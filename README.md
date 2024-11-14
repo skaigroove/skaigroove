@@ -57,3 +57,11 @@
       src="https://img.shields.io/badge/skaigroove@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/skaigroove"
+  width="600"
+  height="300"
+/>
+</a>
